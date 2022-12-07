@@ -17,7 +17,7 @@ const fetchUsername = async () => {
 };
 
 /**
- * OEFENING 3: Je maakte daarnet een turtle file aan in je eigen pod. (op het pad /courses/pxl.ttl)
+ * OEFENING 2: Je maakte daarnet een turtle file aan in je eigen pod. (op het pad /courses/pxl.ttl)
  * In deze turtle staat beschreven dat je de les van vandaag hebt gevolgd. (verwijzing naar jouw WebId)
  *
  * Vergelijk de WebId van de huidige gebruiker met de WebId die jouw turtle staat beschreven.
