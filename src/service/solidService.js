@@ -43,6 +43,7 @@ const fetchAttendee = async () => {
  *    - endDate     (einddatum + einduur van de les)
  *        => LET OP : datums moeten opgehaald worden MET HET TIJDSTIP
  *
+ * DEZE FUNCTIE MOET EEN OBJECT MET BOVENSTAANDE PROPERTIES TERUGGEVEN.
  *
  * == UITBEREIDING ==
  * Haal de naam van de organisator op, in plaats van de WebId (je zal hiervoor een extra dataset moeten ophalen)
